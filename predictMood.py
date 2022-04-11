@@ -2,7 +2,6 @@
 """
 Created on Tue Nov 30 19:32:33 2021
 
-@author: paulina
 """
 
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer    
